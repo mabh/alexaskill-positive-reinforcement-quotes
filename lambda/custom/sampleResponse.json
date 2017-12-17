@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {
+      "ssml": "<speak> Here's your quote: Certain things catch your eye, but pursue only those that capture the heart. by  Ancient Indian Proverb </speak>",
+      "type": "SSML"
+    },
+    "card": {
+      "content": "Certain things catch your eye, but pursue only those that capture the heart. by  Ancient Indian Proverb",
+      "title": "Positive Reinforcement Quotes"
+    },
+    "speechletResponse": {
+      "outputSpeech": {
+        "ssml": "<speak> Here's your quote: Certain things catch your eye, but pursue only those that capture the heart. by  Ancient Indian Proverb </speak>"
+      },
+      "card": {
+        "content": "Certain things catch your eye, but pursue only those that capture the heart. by  Ancient Indian Proverb",
+        "title": "Positive Reinforcement Quotes"
+      },
+      "shouldEndSession": true
+    }
+  },
+  "sessionAttributes": {}
+}
